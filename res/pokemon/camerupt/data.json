@@ -1,11 +1,11 @@
 {
     "base_stats": {
-        "hp": 70,
+        "hp": 75,
         "attack": 100,
-        "defense": 70,
-        "speed": 40,
+        "defense": 90,
+        "speed": 45,
         "special_attack": 105,
-        "special_defense": 75
+        "special_defense": 95
     },
     "types": [ "TYPE_FIRE", "TYPE_GROUND" ],
     "catch_rate": 150,
