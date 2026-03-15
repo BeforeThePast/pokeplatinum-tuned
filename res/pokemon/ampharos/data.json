@@ -7,7 +7,7 @@
         "special_attack": 120,
         "special_defense": 95
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [ "TYPE_ELECTRIC", "TYPE_DRAGON" ],
     "catch_rate": 45,
     "base_exp_reward": 194,
     "ev_yields": {
@@ -46,6 +46,7 @@
             [ 25, "MOVE_CHARGE" ],
             [ 30, "MOVE_THUNDER_PUNCH" ],
             [ 34, "MOVE_DISCHARGE" ],
+            [ 38, "MOVE_DRAGON_BREATH" ],
             [ 42, "MOVE_SIGNAL_BEAM" ],
             [ 51, "MOVE_LIGHT_SCREEN" ],
             [ 59, "MOVE_POWER_GEM" ],
