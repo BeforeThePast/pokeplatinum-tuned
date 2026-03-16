@@ -4,7 +4,7 @@
         "attack": 95,
         "defense": 190,
         "speed": 40,
-        "special_attack": 75,
+        "special_attack": 80,
         "special_defense": 65
     },
     "types": [ "TYPE_STEEL", "TYPE_GROUND" ],
