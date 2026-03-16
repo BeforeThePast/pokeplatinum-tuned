@@ -7,7 +7,7 @@
         "special_attack": 60,
         "special_defense": 100
     },
-    "types": [ "TYPE_WATER", "TYPE_FLYING" ],
+    "types": [ "TYPE_WATER", "TYPE_DRAGON" ],
     "catch_rate": 45,
     "base_exp_reward": 214,
     "ev_yields": {
@@ -40,7 +40,8 @@
             [ 26, "MOVE_LEER" ],
             [ 29, "MOVE_TWISTER" ],
             [ 32, "MOVE_ICE_FANG" ],
-            [ 35, "MOVE_AQUA_TAIL" ],
+            [ 34, "MOVE_AQUA_TAIL" ],
+            [ 36, "MOVE_DRAGON_RUSH" ],
             [ 38, "MOVE_RAIN_DANCE" ],
             [ 41, "MOVE_HYDRO_PUMP" ],
             [ 44, "MOVE_DRAGON_DANCE" ],
