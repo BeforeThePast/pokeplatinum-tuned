@@ -1,10 +1,10 @@
 {
     "base_stats": {
         "hp": 75,
-        "attack": 90,
+        "attack": 97,
         "defense": 50,
-        "speed": 95,
-        "special_attack": 110,
+        "speed": 97,
+        "special_attack": 115,
         "special_defense": 80
     },
     "types": [ "TYPE_DARK", "TYPE_FIRE" ],
