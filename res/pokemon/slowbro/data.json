@@ -3,8 +3,8 @@
         "hp": 95,
         "attack": 75,
         "defense": 110,
-        "speed": 30,
-        "special_attack": 100,
+        "speed": 35,
+        "special_attack": 105,
         "special_defense": 80
     },
     "types": [ "TYPE_WATER", "TYPE_PSYCHIC" ],
