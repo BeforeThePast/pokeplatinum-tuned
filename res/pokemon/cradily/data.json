@@ -2,10 +2,10 @@
     "base_stats": {
         "hp": 86,
         "attack": 81,
-        "defense": 97,
+        "defense": 107,
         "speed": 43,
         "special_attack": 81,
-        "special_defense": 107
+        "special_defense": 117
     },
     "types": [ "TYPE_ROCK", "TYPE_GRASS" ],
     "catch_rate": 45,
