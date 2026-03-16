@@ -4,10 +4,10 @@
         "attack": 45,
         "defense": 65,
         "speed": 80,
-        "special_attack": 90,
-        "special_defense": 110
+        "special_attack": 100,
+        "special_defense": 120
     },
-    "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
+    "types": [ "TYPE_PSYCHIC", "TYPE_ELECTRIC" ],
     "catch_rate": 60,
     "base_exp_reward": 164,
     "ev_yields": {
@@ -47,6 +47,7 @@
             [ 26, "MOVE_ZEN_HEADBUTT" ],
             [ 29, "MOVE_REST" ],
             [ 29, "MOVE_SNORE" ],
+            [ 33, "MOVE_THUNDERBOLT" ],
             [ 37, "MOVE_PAYBACK" ],
             [ 47, "MOVE_PSYCHIC" ],
             [ 55, "MOVE_POWER_GEM" ],
