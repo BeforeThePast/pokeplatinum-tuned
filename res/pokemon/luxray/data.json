@@ -1,13 +1,13 @@
 {
     "base_stats": {
         "hp": 80,
-        "attack": 120,
+        "attack": 130,
         "defense": 79,
-        "speed": 70,
-        "special_attack": 95,
+        "speed": 75,
+        "special_attack": 90,
         "special_defense": 79
     },
-    "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
+    "types": [ "TYPE_ELECTRIC", "TYPE_DARK" ],
     "catch_rate": 45,
     "base_exp_reward": 194,
     "ev_yields": {
