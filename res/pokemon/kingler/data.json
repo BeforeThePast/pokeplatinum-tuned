@@ -45,11 +45,11 @@
             [ 21, "MOVE_METAL_CLAW" ],
             [ 25, "MOVE_STOMP" ],
             [ 32, "MOVE_PROTECT" ],
-            [ 37, "MOVE_GUILLOTINE" ],
-            [ 44, "MOVE_SLAM" ],
-            [ 51, "MOVE_BRINE" ],
-            [ 56, "MOVE_CRABHAMMER" ],
-            [ 63, "MOVE_FLAIL" ]
+            [ 35, "MOVE_GUILLOTINE" ],
+            [ 38, "MOVE_CRABHAMMER" ],
+            [ 43, "MOVE_SLAM" ],
+            [ 50, "MOVE_BRINE" ],
+            [ 60, "MOVE_FLAIL" ]
         ],
         "by_tm": [
             "TM03",
