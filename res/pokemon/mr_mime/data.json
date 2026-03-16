@@ -1,10 +1,10 @@
 {
     "base_stats": {
         "hp": 40,
-        "attack": 45,
+        "attack": 55,
         "defense": 65,
         "speed": 90,
-        "special_attack": 100,
+        "special_attack": 110,
         "special_defense": 120
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
