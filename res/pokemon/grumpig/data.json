@@ -1,8 +1,8 @@
 {
     "base_stats": {
-        "hp": 80,
+        "hp": 90,
         "attack": 45,
-        "defense": 65,
+        "defense": 60,
         "speed": 80,
         "special_attack": 100,
         "special_defense": 120
@@ -49,8 +49,8 @@
             [ 29, "MOVE_SNORE" ],
             [ 33, "MOVE_THUNDERBOLT" ],
             [ 37, "MOVE_PAYBACK" ],
-            [ 47, "MOVE_PSYCHIC" ],
-            [ 55, "MOVE_POWER_GEM" ],
+            [ 40, "MOVE_PSYCHIC" ],
+            [ 46, "MOVE_POWER_GEM" ],
             [ 60, "MOVE_BOUNCE" ]
         ],
         "by_tm": [
