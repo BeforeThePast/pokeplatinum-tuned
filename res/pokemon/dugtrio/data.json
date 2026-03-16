@@ -1,9 +1,9 @@
 {
     "base_stats": {
         "hp": 35,
-        "attack": 80,
+        "attack": 84,
         "defense": 50,
-        "speed": 120,
+        "speed": 124,
         "special_attack": 50,
         "special_defense": 70
     },
