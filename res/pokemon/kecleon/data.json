@@ -2,14 +2,14 @@
     "base_stats": {
         "hp": 60,
         "attack": 90,
-        "defense": 70,
+        "defense": 80,
         "speed": 40,
         "special_attack": 60,
-        "special_defense": 120
+        "special_defense": 150
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 200,
-    "base_exp_reward": 132,
+    "base_exp_reward": 142,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
