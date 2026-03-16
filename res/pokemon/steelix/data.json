@@ -1,10 +1,10 @@
 {
     "base_stats": {
         "hp": 75,
-        "attack": 85,
-        "defense": 200,
-        "speed": 30,
-        "special_attack": 55,
+        "attack": 95,
+        "defense": 190,
+        "speed": 40,
+        "special_attack": 75,
         "special_defense": 65
     },
     "types": [ "TYPE_STEEL", "TYPE_GROUND" ],
@@ -51,6 +51,7 @@
             [ 33, "MOVE_DRAGON_BREATH" ],
             [ 38, "MOVE_CURSE" ],
             [ 41, "MOVE_IRON_TAIL" ],
+            [ 44, "MOVE_DRAGON_PULSE" ]
             [ 46, "MOVE_CRUNCH" ],
             [ 49, "MOVE_DOUBLE_EDGE" ],
             [ 54, "MOVE_STONE_EDGE" ]
