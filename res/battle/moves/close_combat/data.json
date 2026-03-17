@@ -2,7 +2,7 @@
     "name": "Close Combat",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_FIGHTING",
-    "power": 120,
+    "power": 115,
     "accuracy": 100,
     "pp": 5,
     "effect": {
