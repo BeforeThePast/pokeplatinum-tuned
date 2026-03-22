@@ -15,11 +15,11 @@
         },
         {
             "level": 9,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_SQUIRTLE"
         },
         {
             "level": 10,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_GULPIN"
         },
         {
             "level": 11,
@@ -31,7 +31,7 @@
         },
         {
             "level": 11,
-            "species": "SPECIES_PACHIRISU"
+            "species": "SPECIES_GULPIN"
         },
         {
             "level": 11,
@@ -43,11 +43,11 @@
         },
         {
             "level": 11,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_SQUIRTLE"
         },
         {
             "level": 12,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_BARBOACH"
         }
     ],
     "swarms": [
