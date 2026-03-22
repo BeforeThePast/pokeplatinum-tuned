@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 9,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SURSKIT"
         },
         {
             "level": 9,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SPINDA"
         },
         {
             "level": 9,
-            "species": "SPECIES_WURMPLE"
+            "species": "SPECIES_VENONAT"
         },
         {
             "level": 8,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_POLIWAG"
         },
         {
             "level": 9,
@@ -31,23 +31,23 @@
         },
         {
             "level": 10,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_ELECTRIKE"
         },
         {
             "level": 10,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_NATU"
         },
         {
             "level": 10,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SNUBBULL"
         },
         {
             "level": 11,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_NATU"
         },
         {
             "level": 11,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_TEDDIURSA"
         }
     ],
     "swarms": [
