@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SHUPPET"
         },
         {
             "level": 17,
@@ -15,7 +15,7 @@
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SHUPPET"
         },
         {
             "level": 18,
@@ -23,7 +23,7 @@
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_DUSKULL"
         },
         {
             "level": 19,
@@ -35,7 +35,7 @@
         },
         {
             "level": 20,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_DUSKULL"
         },
         {
             "level": 20,
