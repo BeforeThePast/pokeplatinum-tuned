@@ -3,15 +3,15 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_POOCHYENA"
         },
         {
             "level": 18,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_MARSHTOMP"
         },
         {
             "level": 19,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_BAYLEEF"
         },
         {
             "level": 17,
@@ -23,7 +23,7 @@
         },
         {
             "level": 18,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_BULBASAUR"
         },
         {
             "level": 18,
@@ -31,7 +31,7 @@
         },
         {
             "level": 19,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_DUNSPARCE"
         },
         {
             "level": 20,
@@ -39,7 +39,7 @@
         },
         {
             "level": 20,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_LINOONE"
         },
         {
             "level": 20,
@@ -47,7 +47,7 @@
         },
         {
             "level": 20,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_BALTOY"
         }
     ],
     "swarms": [
