@@ -3,11 +3,11 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_TRAPINCH"
         },
         {
             "level": 18,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_HOUNDOUR"
         },
         {
             "level": 19,
@@ -19,11 +19,11 @@
         },
         {
             "level": 18,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_DODUO"
         },
         {
             "level": 19,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 18,
@@ -35,7 +35,7 @@
         },
         {
             "level": 19,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_SPOINK"
         },
         {
             "level": 17,
@@ -43,7 +43,7 @@
         },
         {
             "level": 19,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_BAGON"
         },
         {
             "level": 19,
