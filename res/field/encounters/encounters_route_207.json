@@ -23,7 +23,7 @@
         },
         {
             "level": 6,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 8,
@@ -31,7 +31,7 @@
         },
         {
             "level": 6,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_CACNEA"
         },
         {
             "level": 7,
@@ -43,11 +43,11 @@
         },
         {
             "level": 7,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_SLUGMA"
         },
         {
             "level": 7,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SANDSHREW"
         }
     ],
     "swarms": [
