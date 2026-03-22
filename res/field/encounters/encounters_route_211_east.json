@@ -35,7 +35,7 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_MILTANK"
         },
         {
             "level": 29,
@@ -43,11 +43,11 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_GRANBULL"
         },
         {
             "level": 29,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_SCIZOR"
         }
     ],
     "swarms": [
