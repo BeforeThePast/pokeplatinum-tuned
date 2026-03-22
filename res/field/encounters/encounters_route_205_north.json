@@ -3,43 +3,43 @@
     "land_encounters": [
         {
             "level": 12,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_HOUNDOUR"
         },
         {
             "level": 12,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_ODDISH"
         },
         {
             "level": 13,
-            "species": "SPECIES_WURMPLE"
+            "species": "SPECIES_MUNCHLAX"
         },
         {
             "level": 12,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_LOTAD"
         },
         {
             "level": 14,
-            "species": "SPECIES_SILCOON"
+            "species": "SPECIES_SEEDOT"
         },
         {
             "level": 14,
-            "species": "SPECIES_CASCOON"
+            "species": "SPECIES_SHROOMISH"
         },
         {
             "level": 13,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SURSKIT"
         },
         {
             "level": 14,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_PARAS"
         },
         {
             "level": 13,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_MAREEP"
         },
         {
             "level": 14,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_ILLUMISE"
         },
         {
             "level": 15,
