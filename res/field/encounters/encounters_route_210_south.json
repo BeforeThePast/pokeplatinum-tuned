@@ -3,11 +3,11 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_LILEEP"
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_BONSLY"
         },
         {
             "level": 21,
@@ -15,15 +15,15 @@
         },
         {
             "level": 20,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_WOOPER"
         },
         {
             "level": 20,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_LARVITAR"
         },
         {
             "level": 19,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_COMBUSKEN"
         },
         {
             "level": 19,
@@ -43,7 +43,7 @@
         },
         {
             "level": 21,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_QUILAVA"
         },
         {
             "level": 21,
