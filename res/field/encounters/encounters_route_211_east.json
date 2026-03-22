@@ -3,15 +3,15 @@
     "land_encounters": [
         {
             "level": 27,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_LOMBRE"
         },
         {
             "level": 28,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_NOSEPASS"
         },
         {
             "level": 28,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_MANKEY"
         },
         {
             "level": 29,
