@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 13,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_HIPPOPOTAS"
         },
         {
             "level": 14,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_RHYHORN"
         },
         {
             "level": 14,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 15,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_CHARMANDER"
         },
         {
             "level": 14,
@@ -23,19 +23,19 @@
         },
         {
             "level": 14,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level": 16,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_SPOINK"
         },
         {
             "level": 14,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 15,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_DITTO"
         },
         {
             "level": 16,
@@ -43,11 +43,11 @@
         },
         {
             "level": 15,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_ARON"
         },
         {
             "level": 16,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_VOLTORB"
         }
     ],
     "swarms": [
