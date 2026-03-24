@@ -15,7 +15,7 @@
         },
         {
             "level": 6,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_TOTODILE"
         },
         {
             "level": 5,
@@ -43,11 +43,11 @@
         },
         {
             "level": 7,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 8,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_BALTOY"
         }
     ],
     "swarms": [
