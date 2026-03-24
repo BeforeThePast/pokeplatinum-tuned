@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 31,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_RIOLU"
         },
         {
             "level": 32,
@@ -11,15 +11,15 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_AERODACTYL"
         },
         {
             "level": 32,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_SUDOWOODO"
         },
         {
             "level": 32,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_PUPITAR"
         },
         {
             "level": 33,
@@ -35,7 +35,7 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_PUPITAR"
         },
         {
             "level": 31,
@@ -43,7 +43,7 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_ARON"
         },
         {
             "level": 31,
