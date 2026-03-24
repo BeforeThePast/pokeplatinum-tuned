@@ -49,8 +49,8 @@
             [ 33, "MOVE_AGILITY" ],
             [ 37, "MOVE_FIRE_BLAST" ],
             [ 40, "MOVE_FURY_ATTACK" ],
-            [ 47, "MOVE_BOUNCE" ],
-            [ 56, "MOVE_FLARE_BLITZ" ]
+            [ 44, "MOVE_BOUNCE" ],
+            [ 48, "MOVE_FLARE_BLITZ" ]
         ],
         "by_tm": [
             "TM06",
