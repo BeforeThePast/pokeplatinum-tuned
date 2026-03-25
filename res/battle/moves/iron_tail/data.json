@@ -2,8 +2,8 @@
     "name": "Iron Tail",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_STEEL",
-    "power": 100,
-    "accuracy": 75,
+    "power": 110,
+    "accuracy": 80,
     "pp": 15,
     "effect": {
         "type": "BATTLE_EFFECT_LOWER_DEFENSE_HIT",
