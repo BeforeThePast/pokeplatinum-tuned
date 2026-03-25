@@ -1,8 +1,8 @@
 {
     "name": "Razor Wind",
     "class": "CLASS_SPECIAL",
-    "type": "TYPE_NORMAL",
-    "power": 80,
+    "type": "TYPE_STEEL",
+    "power": 140,
     "accuracy": 100,
     "pp": 10,
     "effect": {
