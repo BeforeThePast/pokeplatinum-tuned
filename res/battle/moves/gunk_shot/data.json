@@ -2,8 +2,8 @@
     "name": "Gunk Shot",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_POISON",
-    "power": 120,
-    "accuracy": 70,
+    "power": 110,
+    "accuracy": 80,
     "pp": 5,
     "effect": {
         "type": "BATTLE_EFFECT_POISON_HIT",
