@@ -2,7 +2,7 @@
     "name": "Faint Attack",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_DARK",
-    "power": 60,
+    "power": 65,
     "accuracy": 0,
     "pp": 20,
     "effect": {
