@@ -3,11 +3,11 @@
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_NORMAL",
     "power": 80,
-    "accuracy": 90,
+    "accuracy": 100,
     "pp": 15,
     "effect": {
         "type": "BATTLE_EFFECT_FLINCH_HIT",
-        "chance": 10
+        "chance": 50
     },
     "range": "RANGE_SINGLE_TARGET",
     "priority": 0,
