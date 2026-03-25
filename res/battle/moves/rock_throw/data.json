@@ -2,8 +2,8 @@
     "name": "Rock Throw",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_ROCK",
-    "power": 50,
-    "accuracy": 90,
+    "power": 55,
+    "accuracy": 94,
     "pp": 15,
     "effect": {
         "type": "BATTLE_EFFECT_HIT",
