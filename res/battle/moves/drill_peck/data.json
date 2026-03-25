@@ -2,7 +2,7 @@
     "name": "Drill Peck",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_FLYING",
-    "power": 80,
+    "power": 84,
     "accuracy": 100,
     "pp": 20,
     "effect": {
