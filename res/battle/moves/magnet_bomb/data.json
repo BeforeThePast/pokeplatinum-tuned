@@ -2,7 +2,7 @@
     "name": "Magnet Bomb",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_STEEL",
-    "power": 60,
+    "power": 64,
     "accuracy": 0,
     "pp": 20,
     "effect": {
