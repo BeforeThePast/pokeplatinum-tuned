@@ -3,11 +3,11 @@
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_FIGHTING",
     "power": 100,
-    "accuracy": 50,
+    "accuracy": 60,
     "pp": 5,
     "effect": {
         "type": "BATTLE_EFFECT_CONFUSE_HIT",
-        "chance": 100
+        "chance": 75
     },
     "range": "RANGE_SINGLE_TARGET",
     "priority": 0,
