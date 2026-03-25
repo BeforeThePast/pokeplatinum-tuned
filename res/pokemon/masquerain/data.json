@@ -2,10 +2,10 @@
     "base_stats": {
         "hp": 70,
         "attack": 60,
-        "defense": 62,
+        "defense": 72,
         "speed": 80,
-        "special_attack": 94,
-        "special_defense": 98
+        "special_attack": 98,
+        "special_defense": 102
     },
     "types": [ "TYPE_BUG", "TYPE_WATER" ],
     "catch_rate": 75,
