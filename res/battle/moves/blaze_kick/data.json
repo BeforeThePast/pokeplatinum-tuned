@@ -2,7 +2,7 @@
     "name": "Blaze Kick",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_FIRE",
-    "power": 95,
+    "power": 88,
     "accuracy": 90,
     "pp": 10,
     "effect": {
