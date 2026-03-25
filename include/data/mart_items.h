@@ -15,7 +15,7 @@ const PokeMartCommonItem PokeMartCommonItems[] = {
     { ITEM_POKE_BALL, 0x1 },
     { ITEM_GREAT_BALL, 0x3 },
     { ITEM_ULTRA_BALL, 0x4 },
-    { ITEM_MASTER_BALL, 0x4 },
+    { ITEM_MASTER_BALL, 0x3 },
     { ITEM_POTION, 0x1 },
     { ITEM_SUPER_POTION, 0x2 },
     { ITEM_HYPER_POTION, 0x4 },
@@ -159,6 +159,9 @@ const u16 VeilstoneDeptStoreStock_3F_UP[] = {
     ITEM_TM33,
     ITEM_TM16,
     ITEM_TM70,
+    ITEM_TM50,
+    ITEM_TM53,
+    ITEM_TM56,
     SHOP_ITEM_END
 };
 
@@ -169,6 +172,11 @@ const u16 VeilstoneDeptStoreStock_3F_DOWN[] = {
     ITEM_TM22,
     ITEM_TM52,
     ITEM_TM15,
+    ITEM_TM08,
+    ITEM_TM42,
+    ITEM_TM04,
+    ITEM_TM61,
+    ITEM_TM73,
     SHOP_ITEM_END
 };
 
