@@ -102,7 +102,7 @@
     "evolutions": [
         [
             "EVO_LEVEL",
-            30,
+            28,
             "SPECIES_SHELGON"
         ]
     ],
