@@ -100,7 +100,6 @@
         ]
     },
     "evolutions": [
-    "evolutions": [
         [
             "EVO_LEVEL",
             37,
