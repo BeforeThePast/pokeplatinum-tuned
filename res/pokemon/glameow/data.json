@@ -107,7 +107,7 @@
     "evolutions": [
         [
             "EVO_LEVEL",
-            38,
+            28,
             "SPECIES_PURUGLY"
         ]
     ],
