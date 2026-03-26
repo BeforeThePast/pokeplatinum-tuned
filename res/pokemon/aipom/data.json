@@ -44,7 +44,7 @@
             [ 22, "MOVE_SWIFT" ],
             [ 25, "MOVE_SCREECH" ],
             [ 29, "MOVE_AGILITY" ],
-            [ 32, "MOVE_DOUBLE_HIT" ],
+            [ 30, "MOVE_DOUBLE_HIT" ],
             [ 36, "MOVE_FLING" ],
             [ 39, "MOVE_NASTY_PLOT" ],
             [ 43, "MOVE_LAST_RESORT" ]
