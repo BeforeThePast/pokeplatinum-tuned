@@ -124,7 +124,7 @@
     "evolutions": [
         [
             "EVO_LEVEL",
-            37,
+            32,
             "SPECIES_TOXICROAK"
         ]
     ],
