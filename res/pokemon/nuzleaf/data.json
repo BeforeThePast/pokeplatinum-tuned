@@ -44,7 +44,7 @@
             [ 31, "MOVE_FAINT_ATTACK" ],
             [ 37, "MOVE_RAZOR_WIND" ],
             [ 43, "MOVE_SWAGGER" ],
-            [ 49, "MOVE_EXTRASENSORY" ]
+            [ 32, "MOVE_EXTRASENSORY" ]
         ],
         "by_tm": [
             "TM06",
