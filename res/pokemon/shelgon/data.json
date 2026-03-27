@@ -98,7 +98,7 @@
     "evolutions": [
         [
             "EVO_LEVEL",
-            43,
+            42,
             "SPECIES_SALAMENCE"
         ]
     ],
