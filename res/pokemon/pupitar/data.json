@@ -100,7 +100,7 @@
     "evolutions": [
         [
             "EVO_LEVEL",
-            55,
+            42,
             "SPECIES_TYRANITAR"
         ]
     ],
