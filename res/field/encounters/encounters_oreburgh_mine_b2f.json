@@ -7,7 +7,7 @@
         },
         {
             "level": 7,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 6,
@@ -15,7 +15,7 @@
         },
         {
             "level": 7,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_ARON"
         },
         {
             "level": 5,
@@ -23,11 +23,11 @@
         },
         {
             "level": 8,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 7,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_DIGLETT"
         },
         {
             "level": 9,
@@ -39,7 +39,7 @@
         },
         {
             "level": 8,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_ARON"
         },
         {
             "level": 9,
