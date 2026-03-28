@@ -99,27 +99,27 @@
         {
             "level_max": 30,
             "level_min": 20,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_SPHEAL"
         },
         {
             "level_max": 30,
             "level_min": 20,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_REMORAID"
         },
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_MANTINE"
         },
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_LANTURN"
         },
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_QWILFISH"
         }
     ],
     "old_rod_rate": 25,
@@ -127,27 +127,27 @@
         {
             "level_max": 6,
             "level_min": 4,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_CARVANHA"
         },
         {
             "level_max": 7,
             "level_min": 3,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_HORSEA"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_TENTACOOL"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_LUVDISC"
         },
         {
             "level_max": 15,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_OMANYTE"
         }
     ],
     "good_rod_rate": 50,
@@ -155,17 +155,17 @@
         {
             "level_max": 20,
             "level_min": 15,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_HORSEA"
         },
         {
             "level_max": 20,
             "level_min": 15,
-            "species": "SPECIES_GOLDEEN"
+            "species": "SPECIES_CARVANHA"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_TENTACOOL"
         },
         {
             "level_max": 25,
