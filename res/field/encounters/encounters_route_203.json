@@ -132,17 +132,17 @@
         {
             "level_max": 7,
             "level_min": 3,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_STARYU"
         },
         {
             "level_max": 15,
