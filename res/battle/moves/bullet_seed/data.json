@@ -2,7 +2,7 @@
     "name": "Bullet Seed",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_GRASS",
-    "power": 12,
+    "power": 13,
     "accuracy": 100,
     "pp": 30,
     "effect": {
