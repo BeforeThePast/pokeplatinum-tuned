@@ -25,7 +25,7 @@ const PokeMartCommonItem PokeMartCommonItems[] = {
     { ITEM_MAX_REVIVE, 0x6 },
     { ITEM_ELIXIR, 0x3 },
     { ITEM_MAX_ELIXIR, 0x5 },
-    { ITEM_RARE_CANDY, 0x2 },
+    { ITEM_RARE_CANDY, 0x8 },
     { ITEM_ANTIDOTE, 0x1 },
     { ITEM_PARLYZ_HEAL, 0x1 },
     { ITEM_AWAKENING, 0x2 },
@@ -41,6 +41,14 @@ const PokeMartCommonItem PokeMartCommonItems[] = {
 const u16 JubilifeMartSpecialties[] = {
     ITEM_AIR_MAIL,
     ITEM_HEAL_BALL,
+    ITEM_HP_UP,
+    ITEM_PROTEIN,
+    ITEM_IRON,
+    ITEM_CARBOS,
+    ITEM_CALCIUM,
+    ITEM_ZINC,
+    ITEM_PP_UP,
+    ITEM_PP_MAX,
     SHOP_ITEM_END
 };
 
@@ -48,6 +56,9 @@ const u16 OreburghMartSpecialties[] = {
     ITEM_TUNNEL_MAIL,
     ITEM_HEAL_BALL,
     ITEM_NET_BALL,
+    ITEM_LUCKY_EGG,
+    ITEM_AMULET_COIN,
+    ITEM_BRIGHTPOWDER,
     SHOP_ITEM_END
 };
 
@@ -55,6 +66,11 @@ const u16 FloaromaMartSpecialties[] = {
     ITEM_BLOOM_MAIL,
     ITEM_HEAL_BALL,
     ITEM_NET_BALL,
+    ITEM_SILVERPOWDER,
+    ITEM_DEEPSEATOOTH,
+    ITEM_DEEPSEASCALE,
+    ITEM_METAL_COAT,
+    ITEM_LEFTOVERS,
     SHOP_ITEM_END
 };
 
@@ -63,6 +79,11 @@ const u16 EternaMartSpecialties[] = {
     ITEM_HEAL_BALL,
     ITEM_NET_BALL,
     ITEM_NEST_BALL,
+    ITEM_SOFT_SAND,
+    ITEM_HARD_STONE,
+    ITEM_MIRACLE_SEED,
+    ITEM_BLACKGLASSES,
+    ITEM_BLACK_BELT,
     SHOP_ITEM_END
 };
 
@@ -79,6 +100,10 @@ const u16 HearthomeMartSpecialties[] = {
     ITEM_HEAL_BALL,
     ITEM_NET_BALL,
     ITEM_NEST_BALL,
+    ITEM_MAGNET,
+    ITEM_MYSTIC_WATER,
+    ITEM_SHARP_BEAK,
+    ITEM_POISON_BARB,
     SHOP_ITEM_END
 };
 
@@ -87,6 +112,12 @@ const u16 SolaceonMartSpecialties[] = {
     ITEM_NET_BALL,
     ITEM_NEST_BALL,
     ITEM_DUSK_BALL,
+    ITEM_DRAGON_SCALE,
+    ITEM_UPGRADE,
+    ITEM_METAL_POWDER,
+    ITEM_THICK_CLUB,
+    ITEM_WIDE_LENS,
+    ITEM_QUICK_POWDER,
     SHOP_ITEM_END
 };
 
@@ -95,6 +126,11 @@ const u16 PastoriaMartSpecialties[] = {
     ITEM_NEST_BALL,
     ITEM_DUSK_BALL,
     ITEM_QUICK_BALL,
+    ITEM_PROTECTOR,
+    ITEM_ELECTIRIZER,
+    ITEM_MAGMARIZER,
+    ITEM_DUBIOUS_DISC,
+    ITEM_REAPER_CLOTH,
     SHOP_ITEM_END
 };
 
@@ -148,6 +184,8 @@ const u16 VeilstoneDeptStoreStock_2F_MID[] = {
     ITEM_ZINC,
     ITEM_CARBOS,
     ITEM_HP_UP,
+    ITEM_PP_UP,
+    ITEM_PP_MAX,
     SHOP_ITEM_END
 };
 
@@ -185,6 +223,10 @@ const u16 CelesticMartSpecialties[] = {
     ITEM_DUSK_BALL,
     ITEM_QUICK_BALL,
     ITEM_TIMER_BALL,
+    ITEM_NEVERMELTICE,
+    ITEM_SPELL_TAG,
+    ITEM_TWISTEDSPOON,
+    ITEM_CHARCOAL,
     SHOP_ITEM_END
 };
 
@@ -193,6 +235,10 @@ const u16 SnowpointMartSpecialties[] = {
     ITEM_DUSK_BALL,
     ITEM_QUICK_BALL,
     ITEM_TIMER_BALL,
+    ITEM_DRAGON_FANG,
+    ITEM_SILK_SCARF,
+    ITEM_RAZOR_FANG,
+    ITEM_RAZOR_CLAW,
     SHOP_ITEM_END
 };
 
@@ -201,6 +247,11 @@ const u16 CanalaveMartSpecialties[] = {
     ITEM_QUICK_BALL,
     ITEM_TIMER_BALL,
     ITEM_REPEAT_BALL,
+    ITEM_SHINY_STONE,
+    ITEM_DUSK_STONE,
+    ITEM_DAWN_STONE,
+    ITEM_OVAL_STONE,
+    ITEM_ODD_KEYSTONE,
     SHOP_ITEM_END
 };
 
