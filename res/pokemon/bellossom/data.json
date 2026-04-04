@@ -2,10 +2,10 @@
     "base_stats": {
         "hp": 75,
         "attack": 80,
-        "defense": 85,
+        "defense": 90,
         "speed": 55,
         "special_attack": 90,
-        "special_defense": 110
+        "special_defense": 115
     },
     "types": [ "TYPE_GRASS", "TYPE_FIRE" ],
     "catch_rate": 45,
