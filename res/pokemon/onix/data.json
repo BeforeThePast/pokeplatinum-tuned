@@ -1,11 +1,11 @@
 {
     "base_stats": {
-        "hp": 35,
-        "attack": 50,
+        "hp": 55,
+        "attack": 70,
         "defense": 160,
         "speed": 70,
-        "special_attack": 40,
-        "special_defense": 45
+        "special_attack": 90,
+        "special_defense": 55
     },
     "types": [ "TYPE_ROCK", "TYPE_DRAGON" ],
     "catch_rate": 45,
