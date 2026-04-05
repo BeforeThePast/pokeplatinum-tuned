@@ -38,7 +38,7 @@
             [ 9, "MOVE_SAND_ATTACK" ],
             [ 17, "MOVE_FAINT_ATTACK" ],
             [ 25, "MOVE_SAND_TOMB" ],
-            [ 33, "MOVE_CRUNCH" ],
+            [ 30, "MOVE_CRUNCH" ],
             [ 41, "MOVE_DIG" ],
             [ 49, "MOVE_SANDSTORM" ],
             [ 57, "MOVE_HYPER_BEAM" ],
@@ -93,7 +93,7 @@
     "evolutions": [
         [
             "EVO_LEVEL",
-            35,
+            32,
             "SPECIES_VIBRAVA"
         ]
     ],
