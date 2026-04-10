@@ -25,7 +25,7 @@ const PokeMartCommonItem PokeMartCommonItems[] = {
     { ITEM_MAX_REVIVE, 0x6 },
     { ITEM_ELIXIR, 0x3 },
     { ITEM_MAX_ELIXIR, 0x5 },
-    { ITEM_RARE_CANDY, 0x8 },
+    { ITEM_RARE_CANDY, 0x7 },
     { ITEM_ANTIDOTE, 0x1 },
     { ITEM_PARLYZ_HEAL, 0x1 },
     { ITEM_AWAKENING, 0x2 },
